@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "saw=true,hammer=true,pliers=true": {"model": "interactiveworkbench:block/workbench_all"},
+    "saw=true,hammer=true,pliers=false": {"model": "interactiveworkbench:block/workbench_saw_hammer"},
+    "saw=true,hammer=false,pliers=true": {"model": "interactiveworkbench:block/workbench_saw_pliers"},
+    "saw=true,hammer=false,pliers=false": {"model": "interactiveworkbench:block/workbench_saw"},
+    "saw=false,hammer=true,pliers=true": {"model": "interactiveworkbench:block/workbench_hammer_pliers"},
+    "saw=false,hammer=true,pliers=false": {"model": "interactiveworkbench:block/workbench_hammer"},
+    "saw=false,hammer=false,pliers=true": {"model": "interactiveworkbench:block/workbench_pliers"},
+    "saw=false,hammer=false,pliers=false": {"model": "interactiveworkbench:block/workbench_empty"}
+  }
+}

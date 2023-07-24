@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "interactiveworkbench:block/workbench_empty",
+    "north": "interactiveworkbench:block/workbench_empty",
+    "south": "interactiveworkbench:block/workbench_empty",
+    "east": "interactiveworkbench:block/workbench_empty",
+    "west": "interactiveworkbench:block/workbench_empty",
+    "up": "interactiveworkbench:block/workbench_top",
+    "down": "minecraft:block/oak_planks"
+  }
+}

@@ -28,7 +28,7 @@ import java.util.Map;
 public class WorkbenchBlock extends Block {
     public WorkbenchBlock(Settings settings) {
         super(settings);
-        boolean startWithTools = false;
+        boolean startWithTools = true;
         setDefaultState(getDefaultState().with(SAW, startWithTools));
         setDefaultState(getDefaultState().with(HAMMER, startWithTools));
         setDefaultState(getDefaultState().with(PLIERS, startWithTools));

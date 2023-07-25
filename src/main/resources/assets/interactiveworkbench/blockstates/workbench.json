@@ -1,6 +1,6 @@
 {
   "variants": {
-    "saw=true,hammer=true,pliers=true": {"model": "interactiveworkbench:block/workbench_all"},
+    "saw=true,hammer=true,pliers=true": {"model": "interactiveworkbench:block/workbench"},
     "saw=true,hammer=true,pliers=false": {"model": "interactiveworkbench:block/workbench_saw_hammer"},
     "saw=true,hammer=false,pliers=true": {"model": "interactiveworkbench:block/workbench_saw_pliers"},
     "saw=true,hammer=false,pliers=false": {"model": "interactiveworkbench:block/workbench_saw"},
